@@ -1,0 +1,13 @@
+
+.icon-sun-filled { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec57;&nbsp;'); }
+.icon-moon-3 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xed80;&nbsp;'); }
+.icon-leaf-3 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xedda;&nbsp;'); }
+.icon-eye-7 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xee5d;&nbsp;'); }
+.icon-eye-off-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xee5e;&nbsp;'); }
+.icon-spin6 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xee7c;&nbsp;'); }
+.icon-won { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf159;&nbsp;'); }
+.icon-bitcoin-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf15a;&nbsp;'); }
+.icon-bank { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf19c;&nbsp;'); }
+.icon-motorcycle { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf21c;&nbsp;'); }
+.icon-viacoin { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf237;&nbsp;'); }
+.icon-hourglass-5 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf254;&nbsp;'); }
